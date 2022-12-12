@@ -16,19 +16,18 @@ If you dont have GPU in your system, for better experience you can use kaggle or
 
 #### Accuracy and Loss of the model:
 
-![image](https://user-images.githubusercontent.com/32120110/192988209-480ea195-8451-4253-89b1-2831c826a1d2.png)
+![image](https://user-images.githubusercontent.com/32120110/207064751-185ec970-8319-48f5-85be-d062e3330385.png)
 
 #### Confusion Matrix:
 
-![image](https://user-images.githubusercontent.com/32120110/192988422-cfeaceea-2f59-4843-9147-cb756334f2f3.png)
+![image](https://user-images.githubusercontent.com/32120110/207064930-82ab9c30-e6ca-4d80-9419-9f1d38308d0c.png)
 
 #### Accuracy and loss plotting of the model:
 
-![image](https://user-images.githubusercontent.com/32120110/192988647-3b86b814-eac3-4985-927b-f495526dfb98.png)
+![image](https://user-images.githubusercontent.com/32120110/207065052-c278c78d-141c-4c66-bd92-a3029510574e.png)
 
 #### Prediction of the patient Image (Covid (100).png)
 
-![image](https://user-images.githubusercontent.com/32120110/192989610-9722a445-2d31-4472-8318-a1faa4ae06bf.png)
-
+![image](https://user-images.githubusercontent.com/32120110/207065268-288fa836-9852-43f0-80e4-91989eed7475.png)
 
 # **Thank You !!**
